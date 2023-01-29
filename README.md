@@ -1,5 +1,5 @@
 # Eyldo
-Experiment pro měření teploty , vlhkosti a měření obsahu oxidu uhličitého na palubě simulované mise.
+Experiment pro měření teploty , vlhkosti a měření obsahu oxidu uhličitého na palubě simulované mise. By Viktor
 
 ## Využívané elektronické součástky
 #### Arduino UNO
